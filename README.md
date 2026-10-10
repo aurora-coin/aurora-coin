@@ -1,6 +1,6 @@
 <div align="center">
 
-# Auroracoin Wallet
+# Auroracoin
 
 **Aurora Wallet — the official Auroracoin (AUR) desktop wallet for Windows, macOS and Linux, maintained by the Auroracoin Foundation, Iceland.**
 
